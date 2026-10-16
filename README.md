@@ -8,7 +8,7 @@ Plataforma web para reseñar y calificar películas y series. Proyecto personal 
 
 - **Frontend:** React 19, Vite, React Router
 - **Backend (en construcción):** Node.js, Express
-- **Base de datos (planeada):** MySQL
+- **Base de datos:** PostgreSQL (Supabase)
 
 ## Plan de funciones
 
@@ -23,7 +23,7 @@ Plataforma web para reseñar y calificar películas y series. Proyecto personal 
 
 ### Fase 2: Backend y base de datos
 - [ ] Servidor con Express
-- [ ] Diseño de la base de datos en MySQL (usuarios, películas, reseñas, comentarios)
+- [x] Diseño de la base de datos en PostgreSQL (usuarios, películas, reseñas, comentarios)
 - [ ] API REST para películas y series
 - [ ] Conexión entre frontend y backend
 
@@ -56,3 +56,13 @@ Plataforma web para reseñar y calificar películas y series. Proyecto personal 
 3. Abrir la dirección que muestra la terminal (normalmente `http://localhost:5173`).
 
 ## Estructura
+
+Kaisen/
+├── frontend/ # Aplicación React (Vite)
+├── backend/ # API (en construcción)
+└── README.md
+
+
+## Autor
+
+**Estiben Lopez Garcia** · [GitHub](https://github.com/Legend39a) · [LinkedIn](https://www.linkedin.com/in/estiben-lopez-garcia-b44325257)
